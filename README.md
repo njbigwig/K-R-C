@@ -9,4 +9,6 @@ While attending Monmouth College (now University), I was a Bell Labs summer inte
 
 I am creating this repro to continue to learn how to use GitHub and share my love of the language.
 
+I was a really big fan of the Borland IDE (you can get a Borland IDE theme for the Microsoft Visual Studio Code!).  Embarcadero aquired the platform, but you can still [download the compiler](https://www.embarcadero.com/free-tools/ccompiler) under Free Products. The source code from the book is included as published, with only minor changes to ensure no warnings or errors during compilation.
+
 Copyright (c) 1988, 1978 by Bell Telephone Laboratories, Incorporated.
